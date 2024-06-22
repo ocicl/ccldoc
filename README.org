@@ -4,6 +4,6 @@ CCLDoc documentation system used by Clozure CL
 
 |---------+-------------------------------------------|
 | source  | git:https://github.com/Clozure/ccldoc.git |
-| commit  | 010d67e                                   |
+| commit  | 622510f                                   |
 | systems | ccldoc                                    |
 |---------+-------------------------------------------|
